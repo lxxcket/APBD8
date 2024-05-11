@@ -1,0 +1,14 @@
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/bin/Debug/net8.0/LinqTasks
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/bin/Debug/net8.0/LinqTasks.deps.json
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/bin/Debug/net8.0/LinqTasks.runtimeconfig.json
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/bin/Debug/net8.0/LinqTasks.dll
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/bin/Debug/net8.0/LinqTasks.pdb
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/LinqTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/LinqTasks.AssemblyInfoInputs.cache
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/LinqTasks.AssemblyInfo.cs
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/LinqTasks.csproj.CoreCompileInputs.cache
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/LinqTasks.dll
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/refint/LinqTasks.dll
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/LinqTasks.pdb
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/LinqTasks.genruntimeconfig.cache
+/Users/roman/Downloads/LinqTasks/LinqTutorials/LinqTasks/obj/Debug/net8.0/ref/LinqTasks.dll
